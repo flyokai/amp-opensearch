@@ -1,7 +1,5 @@
 # flyokai/amp-opensearch
 
-> User docs → [`README.md`](README.md) · Agent quick-ref → [`CLAUDE.md`](CLAUDE.md) · Agent deep dive → [`AGENTS.md`](AGENTS.md)
-
 Async OpenSearch adapter bridging `opensearch-php` SDK with AMPHP HTTP client.
 
 See [AGENTS.md](AGENTS.md) for detailed documentation.
